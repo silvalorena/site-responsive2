@@ -16,7 +16,7 @@ display: inline-block;
 }
 
 .container-imagem{
-padding: lem ;
+padding: 1em;
 
 }
 .container{
@@ -29,7 +29,7 @@ align-items: center;
 }
 
 .container-menu{
-display: nome;
+display: none;
 position: absolute;
 top:100%;
 width: 60vw;
