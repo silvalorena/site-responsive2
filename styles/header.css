@@ -32,6 +32,7 @@ align-items: center;
 display: nome;
 position: absolute;
 top:100%;
+width: 60vw;
 }
 
 .container-botao:checked~.container-menu{
