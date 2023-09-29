@@ -28,4 +28,7 @@
   font-size: 14px;
   font-weight: 400;
   text-align: center;
+  background-image: url("../img/pesquisa.svg");
+  background-repeat: no-repeat;
+  background-position: 1em;
 } 
