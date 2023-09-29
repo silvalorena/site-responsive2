@@ -21,3 +21,10 @@
     color: var(--branco);
     border-radius: 24px;
 }
+
+.banner-pesquisa::placeholder{
+  color:var(--branco);
+  
+
+
+} 
